@@ -1,0 +1,5 @@
+2023-04-04 17:15:52,708 - loggerinstance - ERROR - Error occurred while executing get_all_roles: name 'logging' is not defined
+2023-04-04 17:16:23,382 - loggerinstance - INFO - All roles retrieved successfully
+2023-04-04 17:18:11,824 - loggerinstance - INFO - Employees retrived successfully
+2023-04-04 17:19:37,182 - loggerinstance - INFO - Created employee Nithish with email nithish@example.com and role_id 1
+2023-04-04 17:20:31,217 - loggerinstance - ERROR - Error occurred while executing add_employee: 'role_id'
